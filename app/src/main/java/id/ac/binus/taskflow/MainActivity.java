@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
 //        getSupportActionBar().hide();
 
+
         mloginemail=findViewById(R.id.loginemail);
         mloginpassword=findViewById(R.id.loginpassword);
         mlogin=findViewById(R.id.login);
