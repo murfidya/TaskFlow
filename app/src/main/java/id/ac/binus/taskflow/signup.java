@@ -32,7 +32,7 @@ public class signup extends AppCompatActivity {
             return insets;
         });
 
-        getActionBar().hide();
+//        getActionBar().hide();
 
         msignupemail=findViewById(R.id.signupemail);
         msignuppassword=findViewById(R.id.signuppassword);
