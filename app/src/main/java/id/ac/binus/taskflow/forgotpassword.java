@@ -33,7 +33,7 @@ public class forgotpassword extends AppCompatActivity {
             return insets;
         });
 
-        getSupportActionBar().hide();
+//        getSupportActionBar().hide();
 
         mforgotpassword = findViewById(R.id.forgotpassword);
         mpasswordrecoverbutton = findViewById(R.id.passwordrecoverbutton);
