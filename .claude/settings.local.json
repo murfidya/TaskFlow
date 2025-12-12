@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gradlew.bat assembleDebug)",
+      "Bash(cmd /c \"cd /d D:\\android_studio_sdk\\TaskFlow2_test && gradlew.bat assembleDebug\")",
+      "Bash(cmd /c \"cd /d D:\\android_studio_sdk\\TaskFlow2_test && call gradlew.bat assembleDebug 2>&1\")",
+      "Bash(powershell -Command \"Set-Location ''D:\\android_studio_sdk\\TaskFlow2_test''; .\\gradlew.bat assembleDebug 2>&1\")"
+    ]
+  }
+}
