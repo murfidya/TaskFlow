@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "85504499720",
-    "project_id": "taskflow-e13d1",
-    "storage_bucket": "taskflow-e13d1.firebasestorage.app"
+    "project_number": "340701429232",
+    "project_id": "taskflow-android",
+    "storage_bucket": "taskflow-android.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:85504499720:android:76cbb406bb5e44d2f8f1bd",
+        "mobilesdk_app_id": "1:340701429232:android:781e94b8af5467cfc27135",
         "android_client_info": {
           "package_name": "id.ac.binus.taskflow"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBNDy0tYPufK1AxaVi2FQBnrm8etT_1WP0"
+          "current_key": "AIzaSyCwi2TC9ZtfS7IyUPK6rRtY6ad4B-9p-ck"
         }
       ],
       "services": {

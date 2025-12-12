@@ -2,4 +2,27 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- App Colors -->
+    <color name="primary">#FFBD4D</color>
+    <color name="primary_dark">#E5A844</color>
+    <color name="accent">#FFBD4D</color>
+
+    <!-- Light Theme Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="text_primary_light">#1A1A1A</color>
+    <color name="text_secondary_light">#9E9E9E</color>
+    <color name="divider_light">#E0E0E0</color>
+    <color name="input_background_light">#F5F5F5</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="card_dark">#2C2C2C</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#B0B0B0</color>
+    <color name="divider_dark">#3C3C3C</color>
+    <color name="input_background_dark">#2C2C2C</color>
 </resources>
